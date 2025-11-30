@@ -6481,3 +6481,1312 @@ Level flags = 0
 Total triangle count: 10867
 Writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
 10 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcetest\materials
+Loading E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.vmf
+Could not locate 'GameData' key in g:\games\steam\steamapps\common\source sdk base 2013 multiplayer\sourcetest\gameinfo.txt
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel2_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/blendcliffgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (1) (299485 bytes)
+Error! prop_static using model "models/props_c17/shelfunit01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/shelfunit01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2516 texinfos to 1260
+Reduced 33 texdatas to 26 (910 bytes to 631)
+Writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 176530, actual size 175378
+1 second elapsed
+
+
+
+8 threads
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.prt
+1915 portalclusters
+6099 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 246630 visible clusters (8.98%)
+Total clusters visible: 2745220
+Average clusters visible: 1433
+Building PAS...
+Average clusters audible: 1914
+visdatasize:911362  compressed from 919200
+writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\x64\lights.rad.
+Loading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+4044 faces
+1814831 square feet [261335728.00 square inches]
+241 Displacements
+90775 Square Feet [13071641.00 Square Inches]
+4044 patches before subdivision
+45378 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3561717, max 688
+transfer lists:  27.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(73279, 149173, 53717)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11247, 17750, 4065)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3086, 2429, 375)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(624, 352, 81)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(173, 58, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(42, 13, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(12, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(3, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0112 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                887/8192        10644/98304    (10.8%) 
+brushsides            6149/65536       49192/524288   ( 9.4%) 
+planes                2446/65536       48920/1310720  ( 3.7%) 
+vertexes              7277/65536       87324/786432   (11.1%) 
+nodes                 3516/65536      112512/2097152  ( 5.4%) 
+texinfos              1260/12288       90720/884736   (10.3%) 
+texdata                 26/2048          832/65536    ( 1.3%) 
+dispinfos              241/0           42416/0        ( 0.0%) 
+disp_verts           19409/0          388180/0        ( 0.0%) 
+disp_tris            30656/0           61312/0        ( 0.0%) 
+disp_lmsamples      262228/0          262228/0        ( 0.0%) 
+faces                 4044/65536      226464/3670016  ( 6.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2232/65536      124992/3670016  ( 3.4%) 
+leaves                3518/65536      112576/2097152  ( 5.4%) 
+leaffaces             4509/65536        9018/131072   ( 6.9%) 
+leafbrushes           1834/65536        3668/131072   ( 2.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            27771/512000     111084/2048000  ( 5.4%) 
+edges                16550/256000      66200/1024000  ( 6.5%) 
+LDR worldlights         59/8192         5192/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            495/32768        4950/327680   ( 1.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8268/65536       16536/131072   (12.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1696240/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      911362/16777216 ( 5.4%) 
+entdata               [variable]       22559/393216   ( 5.7%) 
+LDR ambient table     3518/65536       14072/262144   ( 5.4%) 
+HDR ambient table     3518/65536       14072/262144   ( 5.4%) 
+LDR leaf ambient     19164/65536      536592/1835008  (29.2%) 
+HDR leaf ambient      3518/65536       98504/1835008  ( 5.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/2460     ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/4572     ( 0.0%) 
+pakfile               [variable]      175378/0        ( 0.0%) 
+physics               [variable]      299485/4194304  ( 7.1%) 
+physics terrain       [variable]       80997/1048576  ( 7.7%) 
+
+Level flags = 0
+
+Total triangle count: 10908
+Writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+12 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcetest\materials
+Loading E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.vmf
+Could not locate 'GameData' key in g:\games\steam\steamapps\common\source sdk base 2013 multiplayer\sourcetest\gameinfo.txt
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel2_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/blendcliffgrass001a_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/blendrocksand004a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (1) (300101 bytes)
+Error! prop_static using model "models/props_c17/shelfunit01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/shelfunit01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2521 texinfos to 1264
+Reduced 34 texdatas to 27 (965 bytes to 686)
+Writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 177250, actual size 175964
+1 second elapsed
+
+
+
+8 threads
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.prt
+1925 portalclusters
+6113 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 252060 visible clusters (9.09%)
+Total clusters visible: 2773586
+Average clusters visible: 1440
+Building PAS...
+Average clusters audible: 1924
+visdatasize:919861  compressed from 954800
+writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\x64\lights.rad.
+Loading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+4079 faces
+1815484 square feet [261429696.00 square inches]
+240 Displacements
+74984 Square Feet [10797820.00 Square Inches]
+4079 patches before subdivision
+45379 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3563320, max 694
+transfer lists:  27.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(73273, 149173, 53704)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11010, 17543, 3897)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3086, 2429, 375)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(614, 344, 77)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(173, 58, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(42, 13, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(12, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(3, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0103 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                888/8192        10656/98304    (10.8%) 
+brushsides            6161/65536       49288/524288   ( 9.4%) 
+planes                2438/65536       48760/1310720  ( 3.7%) 
+vertexes              7330/65536       87960/786432   (11.2%) 
+nodes                 3542/65536      113344/2097152  ( 5.4%) 
+texinfos              1264/12288       91008/884736   (10.3%) 
+texdata                 27/2048          864/65536    ( 1.3%) 
+dispinfos              240/0           42240/0        ( 0.0%) 
+disp_verts           19384/0          387680/0        ( 0.0%) 
+disp_tris            30624/0           61248/0        ( 0.0%) 
+disp_lmsamples      225508/0          225508/0        ( 0.0%) 
+faces                 4079/65536      228424/3670016  ( 6.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2237/65536      125272/3670016  ( 3.4%) 
+leaves                3544/65536      113408/2097152  ( 5.4%) 
+leaffaces             4561/65536        9122/131072   ( 7.0%) 
+leafbrushes           1854/65536        3708/131072   ( 2.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            27959/512000     111836/2048000  ( 5.5%) 
+edges                16660/256000      66640/1024000  ( 6.5%) 
+LDR worldlights         59/8192         5192/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            500/32768        5000/327680   ( 1.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8343/65536       16686/131072   (12.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1678092/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      919861/16777216 ( 5.5%) 
+entdata               [variable]       22559/393216   ( 5.7%) 
+LDR ambient table     3544/65536       14176/262144   ( 5.4%) 
+HDR ambient table     3544/65536       14176/262144   ( 5.4%) 
+LDR leaf ambient     19159/65536      536452/1835008  (29.2%) 
+HDR leaf ambient      3544/65536       99232/1835008  ( 5.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/2460     ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/4574     ( 0.0%) 
+pakfile               [variable]      175964/0        ( 0.0%) 
+physics               [variable]      300101/4194304  ( 7.2%) 
+physics terrain       [variable]       81812/1048576  ( 7.8%) 
+
+Level flags = 0
+
+Total triangle count: 11003
+Writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+12 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcetest\materials
+Loading E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.vmf
+Could not locate 'GameData' key in g:\games\steam\steamapps\common\source sdk base 2013 multiplayer\sourcetest\gameinfo.txt
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel2_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/blendcliffgrass001a_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/blendrocksand004a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (1) (300101 bytes)
+Error! prop_static using model "models/props_c17/shelfunit01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/shelfunit01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2521 texinfos to 1264
+Reduced 34 texdatas to 27 (965 bytes to 686)
+Writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 177250, actual size 175964
+1 second elapsed
+
+
+
+8 threads
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.prt
+1925 portalclusters
+6113 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 252060 visible clusters (9.09%)
+Total clusters visible: 2773586
+Average clusters visible: 1440
+Building PAS...
+Average clusters audible: 1924
+visdatasize:919861  compressed from 954800
+writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\x64\lights.rad.
+Loading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+4079 faces
+1815484 square feet [261429696.00 square inches]
+240 Displacements
+74984 Square Feet [10797820.00 Square Inches]
+4079 patches before subdivision
+45379 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3563320, max 694
+transfer lists:  27.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(74818, 151271, 55928)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11108, 17750, 4082)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3076, 2468, 412)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(606, 351, 83)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(172, 62, 27)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(41, 13, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(12, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(3, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0082 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                888/8192        10656/98304    (10.8%) 
+brushsides            6161/65536       49288/524288   ( 9.4%) 
+planes                2438/65536       48760/1310720  ( 3.7%) 
+vertexes              7330/65536       87960/786432   (11.2%) 
+nodes                 3542/65536      113344/2097152  ( 5.4%) 
+texinfos              1264/12288       91008/884736   (10.3%) 
+texdata                 27/2048          864/65536    ( 1.3%) 
+dispinfos              240/0           42240/0        ( 0.0%) 
+disp_verts           19384/0          387680/0        ( 0.0%) 
+disp_tris            30624/0           61248/0        ( 0.0%) 
+disp_lmsamples      225508/0          225508/0        ( 0.0%) 
+faces                 4079/65536      228424/3670016  ( 6.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2237/65536      125272/3670016  ( 3.4%) 
+leaves                3544/65536      113408/2097152  ( 5.4%) 
+leaffaces             4561/65536        9122/131072   ( 7.0%) 
+leafbrushes           1854/65536        3708/131072   ( 2.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            27959/512000     111836/2048000  ( 5.5%) 
+edges                16660/256000      66640/1024000  ( 6.5%) 
+LDR worldlights         59/8192         5192/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            500/32768        5000/327680   ( 1.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8343/65536       16686/131072   (12.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1678092/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      919861/16777216 ( 5.5%) 
+entdata               [variable]       22558/393216   ( 5.7%) 
+LDR ambient table     3544/65536       14176/262144   ( 5.4%) 
+HDR ambient table     3544/65536       14176/262144   ( 5.4%) 
+LDR leaf ambient     19163/65536      536564/1835008  (29.2%) 
+HDR leaf ambient      3544/65536       99232/1835008  ( 5.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/2460     ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/4574     ( 0.0%) 
+pakfile               [variable]      175964/0        ( 0.0%) 
+physics               [variable]      300101/4194304  ( 7.2%) 
+physics terrain       [variable]       81812/1048576  ( 7.8%) 
+
+Level flags = 0
+
+Total triangle count: 11003
+Writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+12 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcetest\materials
+Loading E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.vmf
+Could not locate 'GameData' key in g:\games\steam\steamapps\common\source sdk base 2013 multiplayer\sourcetest\gameinfo.txt
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel2_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/blendcliffgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (1) (299253 bytes)
+Error! prop_static using model "models/props_c17/shelfunit01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/shelfunit01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2520 texinfos to 1262
+Reduced 33 texdatas to 26 (910 bytes to 631)
+Writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 176530, actual size 175378
+1 second elapsed
+
+
+
+8 threads
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.prt
+1926 portalclusters
+6114 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 251945 visible clusters (9.07%)
+Total clusters visible: 2777232
+Average clusters visible: 1441
+Building PAS...
+Average clusters audible: 1925
+visdatasize:920378  compressed from 955296
+writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\x64\lights.rad.
+Loading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+4068 faces
+1809428 square feet [260557664.00 square inches]
+257 Displacements
+73144 Square Feet [10532876.00 Square Inches]
+4068 patches before subdivision
+44470 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3501773, max 694
+transfer lists:  26.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(82960, 158823, 62793)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11780, 18074, 4281)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3378, 2708, 636)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(651, 384, 117)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(204, 94, 58)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(47, 19, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(17, 9, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(4, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0091 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                886/8192        10632/98304    (10.8%) 
+brushsides            6143/65536       49144/524288   ( 9.4%) 
+planes                2470/65536       49400/1310720  ( 3.8%) 
+vertexes              7304/65536       87648/786432   (11.1%) 
+nodes                 3533/65536      113056/2097152  ( 5.4%) 
+texinfos              1262/12288       90864/884736   (10.3%) 
+texdata                 26/2048          832/65536    ( 1.3%) 
+dispinfos              257/0           45232/0        ( 0.0%) 
+disp_verts           20817/0          416340/0        ( 0.0%) 
+disp_tris            32896/0           65792/0        ( 0.0%) 
+disp_lmsamples      230708/0          230708/0        ( 0.0%) 
+faces                 4068/65536      227808/3670016  ( 6.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2247/65536      125832/3670016  ( 3.4%) 
+leaves                3535/65536      113120/2097152  ( 5.4%) 
+leaffaces             4534/65536        9068/131072   ( 6.9%) 
+leafbrushes           1841/65536        3682/131072   ( 2.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            27930/512000     111720/2048000  ( 5.5%) 
+edges                16628/256000      66512/1024000  ( 6.5%) 
+LDR worldlights         59/8192         5192/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            495/32768        4950/327680   ( 1.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8256/65536       16512/131072   (12.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1460364/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      920378/16777216 ( 5.5%) 
+entdata               [variable]       22558/393216   ( 5.7%) 
+LDR ambient table     3535/65536       14140/262144   ( 5.4%) 
+HDR ambient table     3535/65536       14140/262144   ( 5.4%) 
+LDR leaf ambient     19361/65536      542108/1835008  (29.5%) 
+HDR leaf ambient      3535/65536       98980/1835008  ( 5.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/2460     ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/4572     ( 0.0%) 
+pakfile               [variable]      175378/0        ( 0.0%) 
+physics               [variable]      299253/4194304  ( 7.1%) 
+physics terrain       [variable]       88999/1048576  ( 8.5%) 
+
+Level flags = 0
+
+Total triangle count: 10957
+Writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+12 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcetest\materials
+Loading E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.vmf
+Could not locate 'GameData' key in g:\games\steam\steamapps\common\source sdk base 2013 multiplayer\sourcetest\gameinfo.txt
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel2_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/blendcliffgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (305021 bytes)
+Error! prop_static using model "models/props_c17/shelfunit01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/shelfunit01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2645 texinfos to 1359
+Reduced 36 texdatas to 29 (975 bytes to 696)
+Writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 176530, actual size 175378
+1 second elapsed
+
+
+
+8 threads
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.prt
+1932 portalclusters
+6156 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 247823 visible clusters (8.83%)
+Total clusters visible: 2807301
+Average clusters visible: 1453
+Building PAS...
+Average clusters audible: 1931
+visdatasize:927620  compressed from 958272
+writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\x64\lights.rad.
+Loading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+4197 faces
+1805099 square feet [259934320.00 square inches]
+313 Displacements
+110497 Square Feet [15911623.00 Square Inches]
+4197 patches before subdivision
+45549 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3600192, max 748
+transfer lists:  27.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(83304, 159109, 63044)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11780, 18055, 4270)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3368, 2705, 635)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(651, 384, 117)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(204, 94, 58)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(47, 19, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(17, 9, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(4, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0102 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                901/8192        10812/98304    (11.0%) 
+brushsides            6293/65536       50344/524288   ( 9.6%) 
+planes                2708/65536       54160/1310720  ( 4.1%) 
+vertexes              7501/65536       90012/786432   (11.4%) 
+nodes                 3560/65536      113920/2097152  ( 5.4%) 
+texinfos              1359/12288       97848/884736   (11.1%) 
+texdata                 29/2048          928/65536    ( 1.4%) 
+dispinfos              313/0           55088/0        ( 0.0%) 
+disp_verts           25353/0          507060/0        ( 0.0%) 
+disp_tris            40064/0           80128/0        ( 0.0%) 
+disp_lmsamples      333096/0          333096/0        ( 0.0%) 
+faces                 4197/65536      235032/3670016  ( 6.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2374/65536      132944/3670016  ( 3.6%) 
+leaves                3562/65536      113984/2097152  ( 5.4%) 
+leaffaces             4590/65536        9180/131072   ( 7.0%) 
+leafbrushes           1913/65536        3826/131072   ( 2.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            28990/512000     115960/2048000  ( 5.7%) 
+edges                17234/256000      68936/1024000  ( 6.7%) 
+LDR worldlights         59/8192         5192/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            496/32768        4960/327680   ( 1.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8241/65536       16482/131072   (12.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1553700/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      927620/16777216 ( 5.5%) 
+entdata               [variable]       22558/393216   ( 5.7%) 
+LDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+HDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+LDR leaf ambient     19145/65536      536060/1835008  (29.2%) 
+HDR leaf ambient      3562/65536       99736/1835008  ( 5.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/71620    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/5232     ( 0.0%) 
+pakfile               [variable]      175378/0        ( 0.0%) 
+physics               [variable]      305021/4194304  ( 7.3%) 
+physics terrain       [variable]      110363/1048576  (10.5%) 
+
+Level flags = 0
+
+Total triangle count: 11251
+Writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+11 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcetest\materials
+Loading E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.vmf
+Could not locate 'GameData' key in g:\games\steam\steamapps\common\source sdk base 2013 multiplayer\sourcetest\gameinfo.txt
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel2_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/blendcliffgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (305021 bytes)
+Error! prop_static using model "models/props_c17/shelfunit01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/shelfunit01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2646 texinfos to 1359
+Reduced 36 texdatas to 29 (975 bytes to 696)
+Writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 176530, actual size 175378
+1 second elapsed
+
+
+
+8 threads
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.prt
+1932 portalclusters
+6156 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 247823 visible clusters (8.83%)
+Total clusters visible: 2807301
+Average clusters visible: 1453
+Building PAS...
+Average clusters audible: 1931
+visdatasize:927620  compressed from 958272
+writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\x64\lights.rad.
+Loading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+4196 faces
+1805099 square feet [259934320.00 square inches]
+312 Displacements
+110450 Square Feet [15904881.00 Square Inches]
+4196 patches before subdivision
+45548 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3600847, max 748
+transfer lists:  27.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(83315, 159152, 63057)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(11782, 18059, 4271)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3369, 2706, 635)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(651, 384, 117)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(204, 94, 58)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(47, 19, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(17, 9, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(4, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0093 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                901/8192        10812/98304    (11.0%) 
+brushsides            6293/65536       50344/524288   ( 9.6%) 
+planes                2708/65536       54160/1310720  ( 4.1%) 
+vertexes              7499/65536       89988/786432   (11.4%) 
+nodes                 3560/65536      113920/2097152  ( 5.4%) 
+texinfos              1359/12288       97848/884736   (11.1%) 
+texdata                 29/2048          928/65536    ( 1.4%) 
+dispinfos              312/0           54912/0        ( 0.0%) 
+disp_verts           25272/0          505440/0        ( 0.0%) 
+disp_tris            39936/0           79872/0        ( 0.0%) 
+disp_lmsamples      332816/0          332816/0        ( 0.0%) 
+faces                 4196/65536      234976/3670016  ( 6.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2373/65536      132888/3670016  ( 3.6%) 
+leaves                3562/65536      113984/2097152  ( 5.4%) 
+leaffaces             4590/65536        9180/131072   ( 7.0%) 
+leafbrushes           1913/65536        3826/131072   ( 2.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            28982/512000     115928/2048000  ( 5.7%) 
+edges                17226/256000      68904/1024000  ( 6.7%) 
+LDR worldlights         59/8192         5192/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            496/32768        4960/327680   ( 1.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8241/65536       16482/131072   (12.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1553416/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      927620/16777216 ( 5.5%) 
+entdata               [variable]       22558/393216   ( 5.7%) 
+LDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+HDR ambient table     3562/65536       14248/262144   ( 5.4%) 
+LDR leaf ambient     19133/65536      535724/1835008  (29.2%) 
+HDR leaf ambient      3562/65536       99736/1835008  ( 5.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/71620    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/5232     ( 0.0%) 
+pakfile               [variable]      175378/0        ( 0.0%) 
+physics               [variable]      305021/4194304  ( 7.3%) 
+physics terrain       [variable]      109960/1048576  (10.5%) 
+
+Level flags = 0
+
+Total triangle count: 11249
+Writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+12 seconds elapsed
