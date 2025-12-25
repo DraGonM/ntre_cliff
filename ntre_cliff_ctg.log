@@ -10153,3 +10153,1811 @@ Level flags = 0
 Total triangle count: 14654
 Writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
 16 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcetest\materials
+Loading E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.vmf
+Could not locate 'GameData' key in g:\games\steam\steamapps\common\source sdk base 2013 multiplayer\sourcetest\gameinfo.txt
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel2_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_graveltogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/blendcliffgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (375030 bytes)
+Error! prop_static using model "models/props_c17/shelfunit01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/shelfunit01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2995 texinfos to 1592
+Reduced 48 texdatas to 38 (1367 bytes to 973)
+Writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 178125, actual size 176571
+3 seconds elapsed
+
+
+
+8 threads
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.prt
+2410 portalclusters
+7779 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 423791 visible clusters (9.69%)
+Total clusters visible: 4375102
+Average clusters visible: 1815
+Building PAS...
+Average clusters audible: 2408
+visdatasize:1433167  compressed from 1465280
+writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+2 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\x64\lights.rad.
+Loading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+5446 faces
+1815913 square feet [261491488.00 square inches]
+313 Displacements
+111164 Square Feet [16007741.00 Square Inches]
+5446 patches before subdivision
+50116 patches after subdivision
+58 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4573053, max 1055
+transfer lists:  34.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(98803, 172439, 72852)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(14010, 19352, 5471)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3651, 2900, 815)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(720, 478, 218)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(221, 125, 83)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(52, 34, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(19, 14, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 5, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0284 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1082/8192        12984/98304    (13.2%) 
+brushsides            7919/65536       63352/524288   (12.1%) 
+planes                3438/65536       68760/1310720  ( 5.2%) 
+vertexes              9588/65536      115056/786432   (14.6%) 
+nodes                 4442/65536      142144/2097152  ( 6.8%) 
+texinfos              1592/12288      114624/884736   (13.0%) 
+texdata                 38/2048         1216/65536    ( 1.9%) 
+dispinfos              313/0           55088/0        ( 0.0%) 
+disp_verts           25353/0          507060/0        ( 0.0%) 
+disp_tris            40064/0           80128/0        ( 0.0%) 
+disp_lmsamples      334932/0          334932/0        ( 0.0%) 
+faces                 5446/65536      304976/3670016  ( 8.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2964/65536      165984/3670016  ( 4.5%) 
+leaves                4444/65536      142208/2097152  ( 6.8%) 
+leaffaces             6040/65536       12080/131072   ( 9.2%) 
+leafbrushes           2614/65536        5228/131072   ( 4.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            37260/512000     149040/2048000  ( 7.3%) 
+edges                21874/256000      87496/1024000  ( 8.5%) 
+LDR worldlights         58/8192         5104/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            613/32768        6130/327680   ( 1.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10236/65536       20472/131072   (15.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1897728/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1433167/16777216 ( 8.5%) 
+entdata               [variable]       22241/393216   ( 5.7%) 
+LDR ambient table     4444/65536       17776/262144   ( 6.8%) 
+HDR ambient table     4444/65536       17776/262144   ( 6.8%) 
+LDR leaf ambient     23330/65536      653240/1835008  (35.6%) 
+HDR leaf ambient      4444/65536      124432/1835008  ( 6.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/72816    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/5450     ( 0.0%) 
+pakfile               [variable]      176571/0        ( 0.0%) 
+physics               [variable]      375030/4194304  ( 8.9%) 
+physics terrain       [variable]      110321/1048576  (10.5%) 
+
+Level flags = 0
+
+Total triangle count: 14661
+Writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+23 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcetest\materials
+Loading E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.vmf
+Could not locate 'GameData' key in g:\games\steam\steamapps\common\source sdk base 2013 multiplayer\sourcetest\gameinfo.txt
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel2_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_graveltogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/blendcliffgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (375814 bytes)
+Error! prop_static using model "models/props_c17/shelfunit01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/shelfunit01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3003 texinfos to 1598
+Reduced 51 texdatas to 39 (1491 bytes to 997)
+Writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 179059, actual size 177237
+1 second elapsed
+
+
+
+8 threads
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.prt
+2419 portalclusters
+7816 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 425782 visible clusters (9.65%)
+Total clusters visible: 4412722
+Average clusters visible: 1824
+Building PAS...
+Average clusters audible: 2417
+visdatasize:1442879  compressed from 1470752
+writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+1 second elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\x64\lights.rad.
+Loading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+5465 faces
+1816160 square feet [261527152.00 square inches]
+313 Displacements
+111164 Square Feet [16007741.00 Square Inches]
+5465 patches before subdivision
+50173 patches after subdivision
+58 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4601001, max 1069
+transfer lists:  35.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(98888, 172490, 72926)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(14017, 19356, 5478)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3650, 2899, 815)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(719, 478, 218)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(221, 125, 83)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(52, 34, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(19, 14, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 5, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0109 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1084/8192        13008/98304    (13.2%) 
+brushsides            7943/65536       63544/524288   (12.1%) 
+planes                3478/65536       69560/1310720  ( 5.3%) 
+vertexes              9612/65536      115344/786432   (14.7%) 
+nodes                 4451/65536      142432/2097152  ( 6.8%) 
+texinfos              1598/12288      115056/884736   (13.0%) 
+texdata                 39/2048         1248/65536    ( 1.9%) 
+dispinfos              313/0           55088/0        ( 0.0%) 
+disp_verts           25353/0          507060/0        ( 0.0%) 
+disp_tris            40064/0           80128/0        ( 0.0%) 
+disp_lmsamples      334932/0          334932/0        ( 0.0%) 
+faces                 5465/65536      306040/3670016  ( 8.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2974/65536      166544/3670016  ( 4.5%) 
+leaves                4453/65536      142496/2097152  ( 6.8%) 
+leaffaces             6056/65536       12112/131072   ( 9.2%) 
+leafbrushes           2616/65536        5232/131072   ( 4.0%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            37389/512000     149556/2048000  ( 7.3%) 
+edges                21948/256000      87792/1024000  ( 8.6%) 
+LDR worldlights         58/8192         5104/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            614/32768        6140/327680   ( 1.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10275/65536       20550/131072   (15.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1904768/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1442879/16777216 ( 8.6%) 
+entdata               [variable]       22241/393216   ( 5.7%) 
+LDR ambient table     4453/65536       17812/262144   ( 6.8%) 
+HDR ambient table     4453/65536       17812/262144   ( 6.8%) 
+LDR leaf ambient     23436/65536      656208/1835008  (35.8%) 
+HDR leaf ambient      4453/65536      124684/1835008  ( 6.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/72816    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/5450     ( 0.0%) 
+pakfile               [variable]      177237/0        ( 0.0%) 
+physics               [variable]      375814/4194304  ( 9.0%) 
+physics terrain       [variable]      110321/1048576  (10.5%) 
+
+Level flags = 0
+
+Total triangle count: 14712
+Writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+20 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcetest\materials
+Loading E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.vmf
+Could not locate 'GameData' key in g:\games\steam\steamapps\common\source sdk base 2013 multiplayer\sourcetest\gameinfo.txt
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel2_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_graveltogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/blendcliffgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (379534 bytes)
+Error! prop_static using model "models/props_c17/shelfunit01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/shelfunit01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3052 texinfos to 1625
+Reduced 53 texdatas to 41 (1530 bytes to 1036)
+Writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 179059, actual size 177237
+1 second elapsed
+
+
+
+8 threads
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.prt
+2484 portalclusters
+8089 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 436396 visible clusters (9.36%)
+Total clusters visible: 4660786
+Average clusters visible: 1876
+Building PAS...
+Average clusters audible: 2482
+visdatasize:1519870  compressed from 1550016
+writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+2 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\x64\lights.rad.
+Loading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+5587 faces
+2 degenerate faces
+1819601 square feet [262022560.00 square inches]
+313 Displacements
+111164 Square Feet [16007741.00 Square Inches]
+5585 patches before subdivision
+50645 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4720655, max 1090
+transfer lists:  36.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(98637, 173089, 73395)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(13970, 19376, 5504)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3650, 2898, 813)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(717, 474, 215)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(220, 122, 80)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(51, 33, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(19, 13, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0099 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1093/8192        13116/98304    (13.3%) 
+brushsides            8039/65536       64312/524288   (12.3%) 
+planes                3578/65536       71560/1310720  ( 5.5%) 
+vertexes              9791/65536      117492/786432   (14.9%) 
+nodes                 4560/65536      145920/2097152  ( 7.0%) 
+texinfos              1625/12288      117000/884736   (13.2%) 
+texdata                 41/2048         1312/65536    ( 2.0%) 
+dispinfos              313/0           55088/0        ( 0.0%) 
+disp_verts           25353/0          507060/0        ( 0.0%) 
+disp_tris            40064/0           80128/0        ( 0.0%) 
+disp_lmsamples      334932/0          334932/0        ( 0.0%) 
+faces                 5587/65536      312872/3670016  ( 8.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3004/65536      168224/3670016  ( 4.6%) 
+leaves                4562/65536      145984/2097152  ( 7.0%) 
+leaffaces             6231/65536       12462/131072   ( 9.5%) 
+leafbrushes           2705/65536        5410/131072   ( 4.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            38047/512000     152188/2048000  ( 7.4%) 
+edges                22286/256000      89144/1024000  ( 8.7%) 
+LDR worldlights         59/8192         5192/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            618/32768        6180/327680   ( 1.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10362/65536       20724/131072   (15.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1956112/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1519870/16777216 ( 9.1%) 
+entdata               [variable]       23835/393216   ( 6.1%) 
+LDR ambient table     4562/65536       18248/262144   ( 7.0%) 
+HDR ambient table     4562/65536       18248/262144   ( 7.0%) 
+LDR leaf ambient     23721/65536      664188/1835008  (36.2%) 
+HDR leaf ambient      4562/65536      127736/1835008  ( 7.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/72816    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/5232     ( 0.0%) 
+pakfile               [variable]      177237/0        ( 0.0%) 
+physics               [variable]      379534/4194304  ( 9.0%) 
+physics terrain       [variable]      110321/1048576  (10.5%) 
+
+Level flags = 0
+
+Total triangle count: 15006
+Writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+20 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcetest\materials
+Loading E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.vmf
+Could not locate 'GameData' key in g:\games\steam\steamapps\common\source sdk base 2013 multiplayer\sourcetest\gameinfo.txt
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel2_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_graveltogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/blendcliffgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (0) (379630 bytes)
+Error! prop_static using model "models/props_c17/shelfunit01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/shelfunit01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3105 texinfos to 1672
+Reduced 53 texdatas to 41 (1530 bytes to 1036)
+Writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 179059, actual size 177237
+2 seconds elapsed
+
+
+
+8 threads
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.prt
+2485 portalclusters
+8094 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 436054 visible clusters (9.34%)
+Total clusters visible: 4666571
+Average clusters visible: 1877
+Building PAS...
+Average clusters audible: 2483
+visdatasize:1519597  compressed from 1550640
+writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+1 second elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\x64\lights.rad.
+Loading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+5630 faces
+3 degenerate faces
+1819538 square feet [262013584.00 square inches]
+326 Displacements
+112695 Square Feet [16228156.00 Square Inches]
+5627 patches before subdivision
+50753 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4766870, max 1095
+transfer lists:  36.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(97982, 173875, 74473)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(14067, 19802, 5865)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3675, 2971, 864)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(723, 488, 224)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(220, 125, 82)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(52, 34, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(19, 13, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0180 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1093/8192        13116/98304    (13.3%) 
+brushsides            8040/65536       64320/524288   (12.3%) 
+planes                3596/65536       71920/1310720  ( 5.5%) 
+vertexes              9813/65536      117756/786432   (15.0%) 
+nodes                 4561/65536      145952/2097152  ( 7.0%) 
+texinfos              1672/12288      120384/884736   (13.6%) 
+texdata                 41/2048         1312/65536    ( 2.0%) 
+dispinfos              326/0           57376/0        ( 0.0%) 
+disp_verts           26406/0          528120/0        ( 0.0%) 
+disp_tris            41728/0           83456/0        ( 0.0%) 
+disp_lmsamples      340340/0          340340/0        ( 0.0%) 
+faces                 5630/65536      315280/3670016  ( 8.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3032/65536      169792/3670016  ( 4.6%) 
+leaves                4563/65536      146016/2097152  ( 7.0%) 
+leaffaces             6263/65536       12526/131072   ( 9.6%) 
+leafbrushes           2705/65536        5410/131072   ( 4.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            38334/512000     153336/2048000  ( 7.5%) 
+edges                22438/256000      89752/1024000  ( 8.8%) 
+LDR worldlights         59/8192         5192/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            617/32768        6170/327680   ( 1.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10365/65536       20730/131072   (15.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1963172/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1519597/16777216 ( 9.1%) 
+entdata               [variable]       23199/393216   ( 5.9%) 
+LDR ambient table     4563/65536       18252/262144   ( 7.0%) 
+HDR ambient table     4563/65536       18252/262144   ( 7.0%) 
+LDR leaf ambient     23712/65536      663936/1835008  (36.2%) 
+HDR leaf ambient      4563/65536      127764/1835008  ( 7.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/72816    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/5232     ( 0.0%) 
+pakfile               [variable]      177237/0        ( 0.0%) 
+physics               [variable]      379630/4194304  ( 9.1%) 
+physics terrain       [variable]      113376/1048576  (10.8%) 
+
+Level flags = 0
+
+Total triangle count: 15094
+Writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+23 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcetest\materials
+Loading E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.vmf
+Could not locate 'GameData' key in g:\games\steam\steamapps\common\source sdk base 2013 multiplayer\sourcetest\gameinfo.txt
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel2_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_graveltogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/blendcliffgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (0) (386582 bytes)
+Error! prop_static using model "models/props_c17/shelfunit01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/shelfunit01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3187 texinfos to 1729
+Reduced 59 texdatas to 44 (1735 bytes to 1120)
+Writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 179993, actual size 177903
+1 second elapsed
+
+
+
+8 threads
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.prt
+2535 portalclusters
+8266 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 445650 visible clusters (9.20%)
+Total clusters visible: 4844688
+Average clusters visible: 1911
+Building PAS...
+Average clusters audible: 2531
+visdatasize:1578913  compressed from 1622400
+writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+1 second elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\x64\lights.rad.
+Loading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+5752 faces
+4 degenerate faces
+1820139 square feet [262100016.00 square inches]
+326 Displacements
+112695 Square Feet [16228156.00 Square Inches]
+5748 patches before subdivision
+50896 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4804079, max 1135
+transfer lists:  36.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(99945, 175309, 75879)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(14565, 20213, 6270)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3833, 3109, 986)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(766, 526, 255)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(233, 135, 90)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(55, 36, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(20, 14, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 5, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0093 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1106/8192        13272/98304    (13.5%) 
+brushsides            8271/65536       66168/524288   (12.6%) 
+planes                3938/65536       78760/1310720  ( 6.0%) 
+vertexes              9988/65536      119856/786432   (15.2%) 
+nodes                 4628/65536      148096/2097152  ( 7.1%) 
+texinfos              1729/12288      124488/884736   (14.1%) 
+texdata                 44/2048         1408/65536    ( 2.1%) 
+dispinfos              326/0           57376/0        ( 0.0%) 
+disp_verts           26406/0          528120/0        ( 0.0%) 
+disp_tris            41728/0           83456/0        ( 0.0%) 
+disp_lmsamples      340340/0          340340/0        ( 0.0%) 
+faces                 5752/65536      322112/3670016  ( 8.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3093/65536      173208/3670016  ( 4.7%) 
+leaves                4630/65536      148160/2097152  ( 7.1%) 
+leaffaces             6417/65536       12834/131072   ( 9.8%) 
+leafbrushes           2724/65536        5448/131072   ( 4.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            39285/512000     157140/2048000  ( 7.7%) 
+edges                23007/256000      92028/1024000  ( 9.0%) 
+LDR worldlights         59/8192         5192/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            639/32768        6390/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10692/65536       21384/131072   (16.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1968700/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1578913/16777216 ( 9.4%) 
+entdata               [variable]       23336/393216   ( 5.9%) 
+LDR ambient table     4630/65536       18520/262144   ( 7.1%) 
+HDR ambient table     4630/65536       18520/262144   ( 7.1%) 
+LDR leaf ambient     23879/65536      668612/1835008  (36.4%) 
+HDR leaf ambient      4630/65536      129640/1835008  ( 7.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/72816    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/5236     ( 0.0%) 
+pakfile               [variable]      177903/0        ( 0.0%) 
+physics               [variable]      386582/4194304  ( 9.2%) 
+physics terrain       [variable]      113376/1048576  (10.8%) 
+
+Level flags = 0
+
+Total triangle count: 15535
+Writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+16 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcetest\materials
+Loading E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.vmf
+Could not locate 'GameData' key in g:\games\steam\steamapps\common\source sdk base 2013 multiplayer\sourcetest\gameinfo.txt
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel2_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_graveltogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/blendcliffgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (0) (386726 bytes)
+Error! prop_static using model "models/props_c17/shelfunit01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/shelfunit01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3188 texinfos to 1730
+Reduced 58 texdatas to 44 (1714 bytes to 1120)
+Writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 179993, actual size 177903
+1 second elapsed
+
+
+
+8 threads
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.prt
+2540 portalclusters
+8277 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 445796 visible clusters (9.17%)
+Total clusters visible: 4863771
+Average clusters visible: 1914
+Building PAS...
+Average clusters audible: 2536
+visdatasize:1586666  compressed from 1625600
+writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+1 second elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\x64\lights.rad.
+Loading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+5759 faces
+4 degenerate faces
+1820147 square feet [262101296.00 square inches]
+326 Displacements
+112695 Square Feet [16228156.00 Square Inches]
+5755 patches before subdivision
+50899 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4804882, max 1136
+transfer lists:  36.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(100029, 175442, 75880)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(14570, 20225, 6274)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3836, 3111, 987)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(766, 526, 256)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(233, 135, 90)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(55, 37, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(20, 14, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 5, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0108 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1106/8192        13272/98304    (13.5%) 
+brushsides            8269/65536       66152/524288   (12.6%) 
+planes                3936/65536       78720/1310720  ( 6.0%) 
+vertexes              9994/65536      119928/786432   (15.2%) 
+nodes                 4637/65536      148384/2097152  ( 7.1%) 
+texinfos              1730/12288      124560/884736   (14.1%) 
+texdata                 44/2048         1408/65536    ( 2.1%) 
+dispinfos              326/0           57376/0        ( 0.0%) 
+disp_verts           26406/0          528120/0        ( 0.0%) 
+disp_tris            41728/0           83456/0        ( 0.0%) 
+disp_lmsamples      340340/0          340340/0        ( 0.0%) 
+faces                 5759/65536      322504/3670016  ( 8.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3094/65536      173264/3670016  ( 4.7%) 
+leaves                4639/65536      148448/2097152  ( 7.1%) 
+leaffaces             6425/65536       12850/131072   ( 9.8%) 
+leafbrushes           2727/65536        5454/131072   ( 4.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            39320/512000     157280/2048000  ( 7.7%) 
+edges                23024/256000      92096/1024000  ( 9.0%) 
+LDR worldlights         59/8192         5192/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            643/32768        6430/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10743/65536       21486/131072   (16.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1968736/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1586666/16777216 ( 9.5%) 
+entdata               [variable]       23332/393216   ( 5.9%) 
+LDR ambient table     4639/65536       18556/262144   ( 7.1%) 
+HDR ambient table     4639/65536       18556/262144   ( 7.1%) 
+LDR leaf ambient     23920/65536      669760/1835008  (36.5%) 
+HDR leaf ambient      4639/65536      129892/1835008  ( 7.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/72816    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/5236     ( 0.0%) 
+pakfile               [variable]      177903/0        ( 0.0%) 
+physics               [variable]      386726/4194304  ( 9.2%) 
+physics terrain       [variable]      113376/1048576  (10.8%) 
+
+Level flags = 0
+
+Total triangle count: 15552
+Writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+15 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcetest\materials
+Loading E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.vmf
+Could not locate 'GameData' key in g:\games\steam\steamapps\common\source sdk base 2013 multiplayer\sourcetest\gameinfo.txt
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel2_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_graveltogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/blendcliffgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (0) (387446 bytes)
+Error! prop_static using model "models/props_c17/shelfunit01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/shelfunit01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3192 texinfos to 1730
+Reduced 58 texdatas to 44 (1714 bytes to 1120)
+Writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 179993, actual size 177903
+1 second elapsed
+
+
+
+8 threads
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.prt
+2540 portalclusters
+8277 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 445796 visible clusters (9.17%)
+Total clusters visible: 4863771
+Average clusters visible: 1914
+Building PAS...
+Average clusters audible: 2536
+visdatasize:1586666  compressed from 1625600
+writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+1 second elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\x64\lights.rad.
+Loading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+5759 faces
+4 degenerate faces
+1820140 square feet [262100272.00 square inches]
+326 Displacements
+112695 Square Feet [16228156.00 Square Inches]
+5755 patches before subdivision
+50899 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4805586, max 1136
+transfer lists:  36.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(100066, 175520, 75894)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(14572, 20228, 6274)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3836, 3111, 987)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(766, 526, 255)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(233, 135, 90)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(55, 36, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(20, 14, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 5, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0097 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1108/8192        13296/98304    (13.5%) 
+brushsides            8283/65536       66264/524288   (12.6%) 
+planes                3948/65536       78960/1310720  ( 6.0%) 
+vertexes              9994/65536      119928/786432   (15.2%) 
+nodes                 4637/65536      148384/2097152  ( 7.1%) 
+texinfos              1730/12288      124560/884736   (14.1%) 
+texdata                 44/2048         1408/65536    ( 2.1%) 
+dispinfos              326/0           57376/0        ( 0.0%) 
+disp_verts           26406/0          528120/0        ( 0.0%) 
+disp_tris            41728/0           83456/0        ( 0.0%) 
+disp_lmsamples      340340/0          340340/0        ( 0.0%) 
+faces                 5759/65536      322504/3670016  ( 8.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3094/65536      173264/3670016  ( 4.7%) 
+leaves                4639/65536      148448/2097152  ( 7.1%) 
+leaffaces             6425/65536       12850/131072   ( 9.8%) 
+leafbrushes           2731/65536        5462/131072   ( 4.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            39320/512000     157280/2048000  ( 7.7%) 
+edges                23024/256000      92096/1024000  ( 9.0%) 
+LDR worldlights         59/8192         5192/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            643/32768        6430/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10743/65536       21486/131072   (16.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1968736/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1586666/16777216 ( 9.5%) 
+entdata               [variable]       23332/393216   ( 5.9%) 
+LDR ambient table     4639/65536       18556/262144   ( 7.1%) 
+HDR ambient table     4639/65536       18556/262144   ( 7.1%) 
+LDR leaf ambient     23921/65536      669788/1835008  (36.5%) 
+HDR leaf ambient      4639/65536      129892/1835008  ( 7.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/72816    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/5236     ( 0.0%) 
+pakfile               [variable]      177903/0        ( 0.0%) 
+physics               [variable]      387446/4194304  ( 9.2%) 
+physics terrain       [variable]      113376/1048576  (10.8%) 
+
+Level flags = 0
+
+Total triangle count: 15552
+Writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+16 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcetest\materials
+Loading E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.vmf
+Could not locate 'GameData' key in g:\games\steam\steamapps\common\source sdk base 2013 multiplayer\sourcetest\gameinfo.txt
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel2_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_graveltogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/blendcliffgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_06_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (0) (388494 bytes)
+Error! prop_static using model "models/props_c17/shelfunit01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/shelfunit01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3197 texinfos to 1730
+Reduced 58 texdatas to 44 (1714 bytes to 1120)
+Writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 179993, actual size 177903
+1 second elapsed
+
+
+
+8 threads
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.prt
+2540 portalclusters
+8277 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 445796 visible clusters (9.17%)
+Total clusters visible: 4863771
+Average clusters visible: 1914
+Building PAS...
+Average clusters audible: 2536
+visdatasize:1586666  compressed from 1625600
+writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+1 second elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\x64\lights.rad.
+Loading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+5759 faces
+4 degenerate faces
+1820140 square feet [262100272.00 square inches]
+326 Displacements
+112695 Square Feet [16228156.00 Square Inches]
+5755 patches before subdivision
+50899 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4805586, max 1136
+transfer lists:  36.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(100065, 175513, 75897)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(14572, 20228, 6275)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3836, 3111, 987)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(766, 526, 255)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(233, 135, 90)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(55, 36, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(20, 14, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 5, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0127 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1111/8192        13332/98304    (13.6%) 
+brushsides            8303/65536       66424/524288   (12.7%) 
+planes                3954/65536       79080/1310720  ( 6.0%) 
+vertexes              9994/65536      119928/786432   (15.2%) 
+nodes                 4637/65536      148384/2097152  ( 7.1%) 
+texinfos              1730/12288      124560/884736   (14.1%) 
+texdata                 44/2048         1408/65536    ( 2.1%) 
+dispinfos              326/0           57376/0        ( 0.0%) 
+disp_verts           26406/0          528120/0        ( 0.0%) 
+disp_tris            41728/0           83456/0        ( 0.0%) 
+disp_lmsamples      340340/0          340340/0        ( 0.0%) 
+faces                 5759/65536      322504/3670016  ( 8.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3094/65536      173264/3670016  ( 4.7%) 
+leaves                4639/65536      148448/2097152  ( 7.1%) 
+leaffaces             6425/65536       12850/131072   ( 9.8%) 
+leafbrushes           2734/65536        5468/131072   ( 4.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            39320/512000     157280/2048000  ( 7.7%) 
+edges                23024/256000      92096/1024000  ( 9.0%) 
+LDR worldlights         59/8192         5192/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            643/32768        6430/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10743/65536       21486/131072   (16.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1968736/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1586666/16777216 ( 9.5%) 
+entdata               [variable]       23203/393216   ( 5.9%) 
+LDR ambient table     4639/65536       18556/262144   ( 7.1%) 
+HDR ambient table     4639/65536       18556/262144   ( 7.1%) 
+LDR leaf ambient     23920/65536      669760/1835008  (36.5%) 
+HDR leaf ambient      4639/65536      129892/1835008  ( 7.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/72816    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/5236     ( 0.0%) 
+pakfile               [variable]      177903/0        ( 0.0%) 
+physics               [variable]      388494/4194304  ( 9.3%) 
+physics terrain       [variable]      113376/1048576  (10.8%) 
+
+Level flags = 0
+
+Total triangle count: 15552
+Writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+17 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcetest\materials
+Loading E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.vmf
+Could not locate 'GameData' key in g:\games\steam\steamapps\common\source sdk base 2013 multiplayer\sourcetest\gameinfo.txt
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel2_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_graveltogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/blendcliffgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/skybox_cliff_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/skybox_cliff_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (0) (387774 bytes)
+Error! prop_static using model "models/props_c17/shelfunit01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/shelfunit01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3192 texinfos to 1730
+Reduced 58 texdatas to 44 (1714 bytes to 1120)
+Writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 179993, actual size 177903
+1 second elapsed
+
+
+
+8 threads
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.prt
+2540 portalclusters
+8277 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 445796 visible clusters (9.17%)
+Total clusters visible: 4863771
+Average clusters visible: 1914
+Building PAS...
+Average clusters audible: 2536
+visdatasize:1586666  compressed from 1625600
+writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+1 second elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\x64\lights.rad.
+Loading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+5753 faces
+4 degenerate faces
+1820140 square feet [262100272.00 square inches]
+320 Displacements
+111414 Square Feet [16043719.00 Square Inches]
+5749 patches before subdivision
+50833 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4783807, max 1138
+transfer lists:  36.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102500, 176843, 76594)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(14991, 20326, 6299)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3908, 3121, 991)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(782, 527, 256)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(236, 136, 91)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(56, 37, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(20, 14, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 5, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0094 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1109/8192        13308/98304    (13.5%) 
+brushsides            8289/65536       66312/524288   (12.6%) 
+planes                3942/65536       78840/1310720  ( 6.0%) 
+vertexes              9982/65536      119784/786432   (15.2%) 
+nodes                 4637/65536      148384/2097152  ( 7.1%) 
+texinfos              1730/12288      124560/884736   (14.1%) 
+texdata                 44/2048         1408/65536    ( 2.1%) 
+dispinfos              320/0           56320/0        ( 0.0%) 
+disp_verts           25920/0          518400/0        ( 0.0%) 
+disp_tris            40960/0           81920/0        ( 0.0%) 
+disp_lmsamples      336308/0          336308/0        ( 0.0%) 
+faces                 5753/65536      322168/3670016  ( 8.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3088/65536      172928/3670016  ( 4.7%) 
+leaves                4639/65536      148448/2097152  ( 7.1%) 
+leaffaces             6425/65536       12850/131072   ( 9.8%) 
+leafbrushes           2730/65536        5460/131072   ( 4.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            39272/512000     157088/2048000  ( 7.7%) 
+edges                22990/256000      91960/1024000  ( 9.0%) 
+LDR worldlights         59/8192         5192/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            643/32768        6430/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10743/65536       21486/131072   (16.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1964680/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1586666/16777216 ( 9.5%) 
+entdata               [variable]       23200/393216   ( 5.9%) 
+LDR ambient table     4639/65536       18556/262144   ( 7.1%) 
+HDR ambient table     4639/65536       18556/262144   ( 7.1%) 
+LDR leaf ambient     23918/65536      669704/1835008  (36.5%) 
+HDR leaf ambient      4639/65536      129892/1835008  ( 7.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/72816    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/5236     ( 0.0%) 
+pakfile               [variable]      177903/0        ( 0.0%) 
+physics               [variable]      387774/4194304  ( 9.2%) 
+physics terrain       [variable]      110902/1048576  (10.6%) 
+
+Level flags = 0
+
+Total triangle count: 15540
+Writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+15 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcetest\materials
+Loading E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.vmf
+Could not locate 'GameData' key in g:\games\steam\steamapps\common\source sdk base 2013 multiplayer\sourcetest\gameinfo.txt
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel2_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_graveltogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/blendcliffgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/skybox_cliff_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/skybox_cliff_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (0) (387774 bytes)
+Error! prop_static using model "models/props_c17/shelfunit01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/shelfunit01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3192 texinfos to 1730
+Reduced 58 texdatas to 44 (1714 bytes to 1120)
+Writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 179993, actual size 177903
+1 second elapsed
+
+
+
+8 threads
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.prt
+2540 portalclusters
+8277 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 445796 visible clusters (9.17%)
+Total clusters visible: 4863771
+Average clusters visible: 1914
+Building PAS...
+Average clusters audible: 2536
+visdatasize:1586666  compressed from 1625600
+writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+1 second elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\x64\lights.rad.
+Loading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+5753 faces
+4 degenerate faces
+1820140 square feet [262100272.00 square inches]
+320 Displacements
+111414 Square Feet [16043719.00 Square Inches]
+5749 patches before subdivision
+50833 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4783807, max 1138
+transfer lists:  36.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102516, 176880, 76596)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(14993, 20330, 6300)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3909, 3122, 991)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(782, 528, 256)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(236, 136, 91)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(56, 37, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(20, 14, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 5, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0093 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1109/8192        13308/98304    (13.5%) 
+brushsides            8289/65536       66312/524288   (12.6%) 
+planes                3942/65536       78840/1310720  ( 6.0%) 
+vertexes              9982/65536      119784/786432   (15.2%) 
+nodes                 4637/65536      148384/2097152  ( 7.1%) 
+texinfos              1730/12288      124560/884736   (14.1%) 
+texdata                 44/2048         1408/65536    ( 2.1%) 
+dispinfos              320/0           56320/0        ( 0.0%) 
+disp_verts           25920/0          518400/0        ( 0.0%) 
+disp_tris            40960/0           81920/0        ( 0.0%) 
+disp_lmsamples      336308/0          336308/0        ( 0.0%) 
+faces                 5753/65536      322168/3670016  ( 8.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3088/65536      172928/3670016  ( 4.7%) 
+leaves                4639/65536      148448/2097152  ( 7.1%) 
+leaffaces             6425/65536       12850/131072   ( 9.8%) 
+leafbrushes           2730/65536        5460/131072   ( 4.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            39272/512000     157088/2048000  ( 7.7%) 
+edges                22990/256000      91960/1024000  ( 9.0%) 
+LDR worldlights         59/8192         5192/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            643/32768        6430/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10743/65536       21486/131072   (16.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1964680/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1586666/16777216 ( 9.5%) 
+entdata               [variable]       23200/393216   ( 5.9%) 
+LDR ambient table     4639/65536       18556/262144   ( 7.1%) 
+HDR ambient table     4639/65536       18556/262144   ( 7.1%) 
+LDR leaf ambient     23917/65536      669676/1835008  (36.5%) 
+HDR leaf ambient      4639/65536      129892/1835008  ( 7.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/72816    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/5236     ( 0.0%) 
+pakfile               [variable]      177903/0        ( 0.0%) 
+physics               [variable]      387774/4194304  ( 9.2%) 
+physics terrain       [variable]      110902/1048576  (10.6%) 
+
+Level flags = 0
+
+Total triangle count: 15540
+Writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+15 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\sourcetest\materials
+Loading E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.vmf
+Could not locate 'GameData' key in g:\games\steam\steamapps\common\source sdk base 2013 multiplayer\sourcetest\gameinfo.txt
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_grasstogravel2_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/nijo_graveltogravel_ivy_wvt_patch
+Patching WVT material: maps/ntre_cliff_ctg/nature/blendcliffgrass001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/skybox_cliff_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/skybox_cliff_*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+
+qhull precision error: Only 4 facets remain.  Can not merge another
+pair.  The convexity constraints may be too strong.  Reduce the
+magnitude of 'Cn' or increase the magnitude of 'An'.  For example,
+try 'C-0.001' instead of 'C-0.1' or 'A-0.999' instead of 'A-0.9'.
+done (0) (387774 bytes)
+Error! prop_static using model "models/props_c17/shelfunit01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/shelfunit01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3192 texinfos to 1730
+Reduced 58 texdatas to 44 (1714 bytes to 1120)
+Writing E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'E:\Misc\3D\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 179993, actual size 177903
+1 second elapsed
+
+
+
+8 threads
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+reading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.prt
+2540 portalclusters
+8277 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 445796 visible clusters (9.17%)
+Total clusters visible: 4863771
+Average clusters visible: 1914
+Building PAS...
+Average clusters audible: 2536
+visdatasize:1586666  compressed from 1625600
+writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp', but we don't own that location. Allowing.
+1 second elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file G:\Games\Steam\steamapps\common\Source SDK Base 2013 Multiplayer\bin\x64\lights.rad.
+Loading e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+5753 faces
+4 degenerate faces
+1820140 square feet [262100272.00 square inches]
+320 Displacements
+111414 Square Feet [16043719.00 Square Inches]
+5749 patches before subdivision
+50833 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4783807, max 1138
+transfer lists:  36.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(102512, 176874, 76595)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(14992, 20329, 6299)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(3908, 3121, 990)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(782, 527, 256)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(236, 136, 91)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(56, 37, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(20, 14, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(5, 5, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0097 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1109/8192        13308/98304    (13.5%) 
+brushsides            8289/65536       66312/524288   (12.6%) 
+planes                3942/65536       78840/1310720  ( 6.0%) 
+vertexes              9982/65536      119784/786432   (15.2%) 
+nodes                 4637/65536      148384/2097152  ( 7.1%) 
+texinfos              1730/12288      124560/884736   (14.1%) 
+texdata                 44/2048         1408/65536    ( 2.1%) 
+dispinfos              320/0           56320/0        ( 0.0%) 
+disp_verts           25920/0          518400/0        ( 0.0%) 
+disp_tris            40960/0           81920/0        ( 0.0%) 
+disp_lmsamples      336308/0          336308/0        ( 0.0%) 
+faces                 5753/65536      322168/3670016  ( 8.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3088/65536      172928/3670016  ( 4.7%) 
+leaves                4639/65536      148448/2097152  ( 7.1%) 
+leaffaces             6425/65536       12850/131072   ( 9.8%) 
+leafbrushes           2730/65536        5460/131072   ( 4.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            39272/512000     157088/2048000  ( 7.7%) 
+edges                22990/256000      91960/1024000  ( 9.0%) 
+LDR worldlights         59/8192         5192/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            643/32768        6430/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10743/65536       21486/131072   (16.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1964680/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1586666/16777216 ( 9.5%) 
+entdata               [variable]       23200/393216   ( 5.9%) 
+LDR ambient table     4639/65536       18556/262144   ( 7.1%) 
+HDR ambient table     4639/65536       18556/262144   ( 7.1%) 
+LDR leaf ambient     23917/65536      669676/1835008  (36.5%) 
+HDR leaf ambient      4639/65536      129892/1835008  ( 7.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/72816    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/5236     ( 0.0%) 
+pakfile               [variable]      177903/0        ( 0.0%) 
+physics               [variable]      387774/4194304  ( 9.2%) 
+physics terrain       [variable]      110902/1048576  (10.6%) 
+
+Level flags = 0
+
+Total triangle count: 15540
+Writing e:\misc\3d\neotokyo\mountain lab\ntre_cliff_ctg.bsp
+16 seconds elapsed
