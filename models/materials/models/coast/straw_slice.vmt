@@ -1,0 +1,12 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "\models\coast\straw_slice"
+	"$surfaceprop" "wood"
+	"$nodecal" 1
+	"$alphatest" 1
+	"$alphatestreference" 0.3
+	"$allowalphatocoverage" 1
+	"$nocull" 1
+	"$bumpmap" "\models\coast\straw_slice_normal"
+	"$normalmapalphaenvmapmask" 1
+}

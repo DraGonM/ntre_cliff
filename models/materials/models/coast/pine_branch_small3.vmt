@@ -1,0 +1,15 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "\models\coast\pine_branch_small3"
+	"$surfaceprop" "foliage"
+	"$nodecal" 1
+	"$alphatest" 1
+	"$alphatestreference" 0.3
+	"$allowalphatocoverage" 1
+	"$nocull" 1
+	"$treesway" 1
+	"$treeswaystrength" 0
+	"$treeswayscrumblestrength" 0.1
+	"$treeswayscrumblespeed" 0.8
+}
+
