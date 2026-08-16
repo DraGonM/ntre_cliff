@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "\coast\waterfall"
+	"$translucent" 1
+	"proxies"
+	{
+		"TextureScroll"
+		{
+			"Texturescrollvar" "$Basetexturetransform"
+			"Texturescrollrate" "1.2"
+			"texturescrollangle" "270"
+		}
+	}
+}
